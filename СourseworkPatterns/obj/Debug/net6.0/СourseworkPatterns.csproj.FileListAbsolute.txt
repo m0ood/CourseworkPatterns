@@ -1,0 +1,15 @@
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\obj\Debug\net6.0\СourseworkPatterns.csproj.AssemblyReference.cache
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\obj\Debug\net6.0\СourseworkPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\obj\Debug\net6.0\СourseworkPatterns.AssemblyInfoInputs.cache
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\obj\Debug\net6.0\СourseworkPatterns.AssemblyInfo.cs
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\obj\Debug\net6.0\СourseworkPatterns.csproj.CoreCompileInputs.cache
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\bin\Debug\net6.0\СourseworkPatterns.exe
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\bin\Debug\net6.0\СourseworkPatterns.deps.json
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\bin\Debug\net6.0\СourseworkPatterns.runtimeconfig.json
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\bin\Debug\net6.0\СourseworkPatterns.dll
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\bin\Debug\net6.0\СourseworkPatterns.pdb
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\obj\Debug\net6.0\СourseworkPatterns.dll
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\obj\Debug\net6.0\refint\СourseworkPatterns.dll
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\obj\Debug\net6.0\СourseworkPatterns.pdb
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\obj\Debug\net6.0\СourseworkPatterns.genruntimeconfig.cache
+C:\Users\1dank\source\repos\СourseworkPatterns\СourseworkPatterns\obj\Debug\net6.0\ref\СourseworkPatterns.dll
