@@ -11,7 +11,7 @@ namespace СourseworkPatterns.Pizza
         public PepperoniPizza(Pizza pizza)
         : base(pizza)
         {
-            Name += ", с пепперони";
+            Name += ", с пиперине";
         }
 
         public override int GetCost()

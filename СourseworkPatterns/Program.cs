@@ -24,7 +24,7 @@ Console.WriteLine("Состав заказ: " + pie.Name + " стоимость�
 
 restaurant = new PizzaRestaurant("The best pizza");
 pizza = restaurant.Create();
-pizza.Name += ", с пепперони";
+pizza.Name += ", с пиперине";
 pizza.Name += ", с грибами";
 Console.WriteLine("Состав заказ: " + pizza.Name + " стоимостью: " + (pizza.GetCost() + 150) + ". В ресторане: " + restaurant.Name);
 
@@ -38,6 +38,6 @@ Console.WriteLine("Состав заказ: " + pie.Name + " стоимость�
 
 restaurantName = "The best pizza";
 pizza = new Pizza("Пицца с сыром");
-pie.Name += ", с пепперони";
+pie.Name += ", с пиперине";
 pie.Name += ", с грибами";
 Console.WriteLine("Состав заказ: " + pie.Name + " стоимостью: " + (pie.GetCost() + 250) + ". В ресторане: " + restaurantName);
