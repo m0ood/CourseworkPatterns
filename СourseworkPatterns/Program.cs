@@ -30,14 +30,14 @@ Console.WriteLine("Состав заказ: " + pizza.Name + " стоимост�
 
 //without Factory Method
 Console.WriteLine("Without Factory Method");
-string restaurantName = "The best pies";
+restaurant = new PieRestaurant("The best pies");
 pie = new Pie("Пирог");
 pie.Name += ", с вишней";
 pie.Name += ", с клубникой";
-Console.WriteLine("Состав заказ: " + pie.Name + " стоимостью: " + (pie.GetCost() + 250) + ". В ресторане: " + restaurantName);
+Console.WriteLine("Состав заказ: " + pie.Name + " стоимостью: " + (pie.GetCost() + 250) + ". В ресторане: " + restaurant.Name);
 
-restaurantName = "The best pizza";
+restaurant = new PizzaRestaurant("The best pizza");
 pizza = new Pizza("Пицца с сыром");
 pie.Name += ", с пиперине";
 pie.Name += ", с грибами";
-Console.WriteLine("Состав заказ: " + pie.Name + " стоимостью: " + (pie.GetCost() + 250) + ". В ресторане: " + restaurantName);
+Console.WriteLine("Состав заказ: " + pie.Name + " стоимостью: " + (pie.GetCost() + 250) + ". В ресторане: " + restaurant.Name);
