@@ -9,8 +9,10 @@ namespace СourseworkPatterns.Pizza
     internal class PepperoniPizza : PizzaDecorator
     {
         public PepperoniPizza(Pizza pizza)
-        : base(pizza.Name + ", с пепперони", pizza)
-        { }
+        : base(pizza)
+        {
+            Name += ", с пепперони";
+        }
 
         public override int GetCost()
         {

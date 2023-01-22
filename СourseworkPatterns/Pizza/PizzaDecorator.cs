@@ -9,7 +9,7 @@ namespace СourseworkPatterns.Pizza
     abstract class PizzaDecorator :Pizza
     {
         public Pizza pizza;
-        public PizzaDecorator(string name, Pizza pizza) : base(name)
+        public PizzaDecorator(Pizza pizza) : base(pizza.Name)
         {
             this.pizza = pizza;
         }

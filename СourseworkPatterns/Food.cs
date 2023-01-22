@@ -8,7 +8,7 @@ namespace СourseworkPatterns
 {
     public abstract class Food
     {
-        public string? Name { get; protected set; }
+        public string Name { get;  set; }
         public abstract int GetCost();
         public  string GetOrder()
         {

@@ -9,7 +9,7 @@ namespace СourseworkPatterns.Pie
     abstract class PieDecorator : Pie
     {
         public Pie pie;
-        public PieDecorator(string name, Pie pie) : base(name)
+        public PieDecorator(Pie pie) : base(pie.Name)
         {
             this.pie = pie;
         }

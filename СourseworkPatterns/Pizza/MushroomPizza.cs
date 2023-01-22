@@ -9,8 +9,10 @@ namespace СourseworkPatterns.Pizza
     internal class MushroomPizza : PizzaDecorator
     {
         public MushroomPizza(Pizza pizza)
-        : base(pizza.Name + ", с грибами", pizza)
-        { }
+        : base(pizza)
+        {
+            Name += ", с грибами";
+        }
 
         public override int GetCost()
         {

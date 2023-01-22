@@ -9,8 +9,10 @@ namespace СourseworkPatterns.Pie
     internal class StrawberryPie: PieDecorator
     {
         public StrawberryPie(Pie pie)
-        : base(pie.Name + ", с клубникой", pie)
-        { }
+        : base(pie)
+        {
+            Name += ", с клубникой";
+        }
 
         public override int GetCost()
         {
